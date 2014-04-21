@@ -3,7 +3,7 @@
    <description name="MVC Generator">
       MVC Generator Uniandes
    </description>
-   <feature url="features/mvcGenerator_1.0.0.201404091731.jar" id="mvcGenerator" version="1.0.0.201404091731">
+   <feature url="features/mvcGenerator_1.0.0.201404211717.jar" id="mvcGenerator" version="1.0.0.201404211717">
       <category name="codeGeneration"/> 
    </feature>
    <category-def name="codeGeneration" label="Code Generation"/>
