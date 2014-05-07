@@ -5,7 +5,7 @@
    </description>
    <feature url="features/mvcGenerator_1.0.0.201405070643.jar" id="mvcGenerator" version="1.0.0.201405070643"> 
       <category name="codeGeneration"/> 
-   </feature>
+   </feature> 
    <category-def name="codeGeneration" label="Code Generation"/>
 </site>
  
